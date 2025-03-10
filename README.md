@@ -1,2 +1,2 @@
-Bem Vindo 
-Esta é minha pagina.
+Bem Vindo, 
+esta é minha pagina.
